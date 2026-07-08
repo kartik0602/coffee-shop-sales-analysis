@@ -76,15 +76,7 @@ coffee-shop-sales-analysis/
 
 ## 📷 Dashboard Preview
 
-> Upload your dashboard screenshot inside the **Images** folder and name it **dashboard.png**.
-
-```markdown
 ![Dashboard](Images/dashboard.png)
-```
-
-After uploading the image, remove the three backticks above and below that line so the image displays directly.
-
----
 
 ## 📌 KPIs Included
 
