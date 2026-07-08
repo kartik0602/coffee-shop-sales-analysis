@@ -76,7 +76,7 @@ coffee-shop-sales-analysis/
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Coffee Shop Dashboard](Dashboard.png)
 
 ## 📌 KPIs Included
 
