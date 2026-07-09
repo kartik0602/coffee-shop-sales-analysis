@@ -83,7 +83,6 @@ coffee-shop-sales-analysis/
 - Total Sales
 - Total Orders
 - Total Quantity Sold
-- Average Daily Sales
 - Month-over-Month Growth
 
 ---
